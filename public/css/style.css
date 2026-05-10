@@ -787,6 +787,7 @@ nav a:hover{color:var(--second-color)}
 }
 
 .content-send-message textarea {
+  margin-left: 23px;
   height: 100px;
   resize: none;
 }
